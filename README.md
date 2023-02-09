@@ -1,7 +1,7 @@
-#Rycerz and Ekwipunek Java Project
+# Rycerz and Ekwipunek Java Project
 This project is a simulation of a Knight and its equipment in Java. It includes two classes: Rycerz and Ekwipunek. The Rycerz class represents a knight with its name, attack, defense, and hit points (HP). The Ekwipunek class represents the equipment that the knight has and includes its attack, defense, and HP bonuses.
 
-#Class Rycerz
+# Class Rycerz
 The Rycerz class includes the following properties:
 
 Nazwa - the name of the knight
@@ -19,7 +19,7 @@ The Walka method allows the knight to engage in a fight with another knight repr
 
 Finally, the Wyswietl method displays the knight's properties, as well as its properties with the bonuses from its equipment.
 
-#Class Ekwipunek
+# Class Ekwipunek
 The Ekwipunek class includes the following properties:
 
 Atak - the attack bonus from the equipment
@@ -31,5 +31,5 @@ The first constructor allows the user to set the values for the equipment's atta
 The second constructor sets default values for the equipment's attack, defense, and HP bonuses to 0.
 There are also getter methods to retrieve the values of the equipment's properties.
 
-#Using the Code
+# Using the Code
 To use this code, you will need a Java development environment. You can then create objects of the Rycerz class and use its methods to simulate fights between knights and display their properties. You can also create objects of the Ekwipunek class to represent the equipment of the knights.
